@@ -1,0 +1,8 @@
+D:\CodeStuff\LogFilter\LogFilter\bin\Release\LogFilter.exe.config
+D:\CodeStuff\LogFilter\LogFilter\bin\Release\LogFilter.exe
+D:\CodeStuff\LogFilter\LogFilter\bin\Release\LogFilter.pdb
+D:\CodeStuff\LogFilter\LogFilter\bin\Release\CsvHelper.dll
+D:\CodeStuff\LogFilter\LogFilter\bin\Release\CsvHelper.xml
+D:\CodeStuff\LogFilter\LogFilter\obj\Release\LogFilter.csprojResolveAssemblyReference.cache
+D:\CodeStuff\LogFilter\LogFilter\obj\Release\LogFilter.exe
+D:\CodeStuff\LogFilter\LogFilter\obj\Release\LogFilter.pdb
